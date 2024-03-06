@@ -1,0 +1,94 @@
+/* Global styles */
+/* body {
+    font-family: Arial, sans-serif;
+} */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+#btn-home{
+    color: #fff;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  color: #333;
+}
+.pillar {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.pillar h2 {
+  color: #007bff;
+}
+.pillar p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Header styles */
+header {
+  padding: 20px 0;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.1rem;
+}
+
+/* Hero section styles */
+.hero {
+  background-image: url("hero-image.jpg");
+  background-size: cover;
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.5rem;
+}
+
+/* Content section styles */
+.content {
+  padding: 50px 0;
+}
+
+.content h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.content p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+footer p {
+  font-size: 1.1rem;
+}
